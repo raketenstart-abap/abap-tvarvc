@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_CORE_TVARVC</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Core: Interface Read TVARVC Helper</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_PARAMETER</CMPNAME>
+     <SCONAME>RESULT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Tabela das variáveis de variante (dependente mandante)</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_PARAMETER</CMPNAME>
+     <SCONAME>ZCX_CORE_TVARVC</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Core: Read TVARVC Helper Exception</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_SELECT_OPTIONS</CMPNAME>
+     <SCONAME>RESULT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Tabela rsparams</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_SELECT_OPTIONS</CMPNAME>
+     <SCONAME>ZCX_CORE_TVARVC</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Core: Read TVARVC Helper Exception</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>READ_SELECT_OPTIONS_TAB</CMPNAME>
+     <SCONAME>ZCX_CORE_TVARVC</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Core: Read TVARVC Helper Exception</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
